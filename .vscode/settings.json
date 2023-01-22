@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "CAR-ERD",
+            "connectString": "postgres://dspsbbaw:jo2DGHwUp65KtDqaci6rfrBWLyUqCl2D@kashin.db.elephantsql.com/dspsbbaw"
+        }
+    ]
+}
